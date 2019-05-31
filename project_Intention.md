@@ -1,0 +1,1 @@
+This project has been conceived for assignment purposes!
